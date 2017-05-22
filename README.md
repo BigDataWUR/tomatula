@@ -140,4 +140,4 @@ $SPARK_HOME/bin/spark-submit --packages com.databricks:spark-csv_2.10:1.4.0 toma
 Please send your feedback to A. Boufea or I.N. Athanasiadis.
 
 Cite this work as: 
-> A. Boufea, R. Finkers, M. Kramer and  I.N. Athanasiadis, Managing variant calling datasets the big data way, Unpublished submitted manuscript, 2017.
+> A. Boufea, R. Finkers, M. van Kaauwen, M. Kramer and  I.N. Athanasiadis, Managing variant calling datasets the big data way, Unpublished submitted manuscript, 2017.
