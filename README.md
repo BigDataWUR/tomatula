@@ -141,3 +141,9 @@ Please send your feedback to A. Boufea or I.N. Athanasiadis.
 
 Cite this work as: 
 > A. Boufea, R. Finkers, M. van Kaauwen, M. Kramer and  I.N. Athanasiadis, Managing variant calling datasets the big data way, Unpublished submitted manuscript, 2017.
+
+
+
+Experimental data have been deposited on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.582145.svg)](https://doi.org/10.5281/zenodo.582145)
+
+
