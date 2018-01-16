@@ -140,9 +140,7 @@ $SPARK_HOME/bin/spark-submit --packages com.databricks:spark-csv_2.10:1.4.0 toma
 Please send your feedback to A. Boufea or I.N. Athanasiadis.
 
 Cite this work as: 
-> A. Boufea, R. Finkers, M. van Kaauwen, M. Kramer and  I.N. Athanasiadis, Managing variant calling datasets the big data way, Unpublished submitted manuscript, 2017.
-
-
+> A. Boufea, R. Finkers, M. van Kaauwen, M. Kramer and  I.N. Athanasiadis, [Managing Variant Calling Files the Big Data Way: Using HDFS and Apache Parquet](https://doi.org/10.1145/3148055.3148060), Proceedings of the Fourth IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT '17). ACM, 2017, p. 219-226, [doi:10.1145/3148055.3148060](https://doi.org/10.1145/3148055.3148060)
 
 Experimental data have been deposited on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.582145.svg)](https://doi.org/10.5281/zenodo.582145)
 
